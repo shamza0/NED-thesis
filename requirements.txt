@@ -1,0 +1,8 @@
+ollama>=0.3.0
+pydantic>=2.7.0
+sqlglot>=25.0.0
+faker>=26.0.0
+plotly>=5.22.0
+streamlit>=1.36.0
+pandas>=2.2.0
+pytest>=8.2.0
